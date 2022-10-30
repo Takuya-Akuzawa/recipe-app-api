@@ -1,8 +1,6 @@
 """
 Serializers for recipe APIs
 """
-from urllib import request
-from wsgiref import validate
 from rest_framework import serializers
 
 from core.models import (
