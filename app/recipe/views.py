@@ -1,7 +1,6 @@
 """
 Views for the recipe APIs
 """
-from symbol import parameters
 from drf_spectacular.utils import (
     extend_schema_view,
     extend_schema,
